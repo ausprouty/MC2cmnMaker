@@ -1,0 +1,6 @@
+{
+  "appId": "app.mc2.cmn",
+  "appName": "MC2-简体中文 SD",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
